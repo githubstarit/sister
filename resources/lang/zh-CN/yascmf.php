@@ -50,7 +50,7 @@ return [
     'social_contact' => [
         'text' => '与YASCMF开发者联系：',
         'twitter' => [
-            'url'  => 'https://twitter.com/raoyc',
+            'url'  => 'https://twitter.com/star',
         ],
         'github' => [
             'url'  => 'https://github.com/ycrao',
@@ -69,7 +69,7 @@ return [
     ],
     'yas'            => 'YʌS 石头网络',
     'yas_url'        => 'http://yas.so',
-    'copyright_text' => 'Copyright © <a href=":yas_url"> :yas </a> 2014 - 2016 . 版权所有 , 本页面模版来自 <a href="http://startbootstrap.com/template-overviews/landing-page/">Start Bootstrap</a> , 由 <a href="http://raoyc.com/">raoyc</a> 修改适配 .',
+    'copyright_text' => 'Copyright © <a href=":yas_url"> :yas </a> 2014 - 2016 . 版权所有 , 本页面模版来自 <a href="http://startbootstrap.com/template-overviews/landing-page/">Start Bootstrap</a> , 由 <a href="http://star.com/">star</a> 修改适配 .',
 
 
 ];

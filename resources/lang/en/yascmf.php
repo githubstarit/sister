@@ -31,7 +31,7 @@ return [
         'preview'   => 'Preview',
         'source'    => 'Source',
         'donation'  => 'Donation',
-        'qr_text'   => '<blockquote><p>You can donate via PayPal. My PayPal account is <code>raoyc2008@126.com</code> . Also, you can scan QR picture below to buy me a coffee if WeChat or Alipay app available in your country or region.</p><p><img alt="wechat_alipay" src="/assets/wechat_alipay.jpg"></p><p>All donations will be recorded in official repository and website.</p>',
+        'qr_text'   => '<blockquote><p>You can donate via PayPal. My PayPal account is <code>star2008@126.com</code> . Also, you can scan QR picture below to buy me a coffee if WeChat or Alipay app available in your country or region.</p><p><img alt="wechat_alipay" src="/assets/wechat_alipay.jpg"></p><p>All donations will be recorded in official repository and website.</p>',
     ],
     'feature' => [
         'thanks' => [
@@ -50,7 +50,7 @@ return [
     'social_contact' => [
         'text' => 'Connect to YASCMF：',
         'twitter' => [
-            'url'  => 'https://twitter.com/raoyc',
+            'url'  => 'https://twitter.com/star',
         ],
         'github' => [
             'url'  => 'https://github.com/ycrao',
@@ -69,7 +69,7 @@ return [
     ],
     'yas'      => 'YʌS Network',
     'yas_url'  => 'http://yas.so',
-    'copyright_text' => 'Copyright © <a href=":yas_url"> :yas </a> 2014 - 2016 . All Rights Reserved , Template from <a href="http://startbootstrap.com/template-overviews/landing-page/">Start Bootstrap</a> , Modified by <a href="http://raoyc.com/">raoyc</a> .',
+    'copyright_text' => 'Copyright © <a href=":yas_url"> :yas </a> 2014 - 2016 . All Rights Reserved , Template from <a href="http://startbootstrap.com/template-overviews/landing-page/">Start Bootstrap</a> , Modified by <a href="http://star.com/">star</a> .',
 
 
 ];

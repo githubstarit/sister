@@ -17,7 +17,7 @@
                             $_url = slug_url($article->category->slug, $article->slug, false);
                         ?>
         <div class="copyright_text">
-            <p>作者署名：raoyc<br />
+            <p>作者署名：star<br />
             原创说明：文章除非特别申明引用，否则均为原创。<br />
             授权协议：自由转载-非商用-非衍生-保持署名 | <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/cn/">Creative Commons BY-NC-ND 3.0</a><br />
             原文网址：<a href="{{ $_url }}">{{ (request()->secure()) ? 'https:' : 'http:' }}{{ $_url }}</a><br />

@@ -29,7 +29,7 @@
 
 
         <div class="footer">
-            <p class="slogan">designed &amp; developed by <a href="https://raoyc.com">raoyc</a>  设计崇简</p>
+            <p class="slogan">designed &amp; developed by <a href="https://star.com">star</a>  设计崇简</p>
             <p>&copy; 2016 <a href="/">石头轻博客</a> 版权所有 -  <a href="http://www.miibeian.gov.cn/">{{ cache('website_icp', '鄂ICP备15014910号-3') }}</a></p>
         </div>
     </div>
