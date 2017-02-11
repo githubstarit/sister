@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | 芽丝内容管理框架 - 基础开发版：系统本地化语言文件
+    | 石头内容管理框架 - 基础开发版：系统本地化语言文件
     |--------------------------------------------------------------------------
     */
     'lang_code' => 'zh-CN',
@@ -13,13 +13,13 @@ return [
         'zh-CN' => '简体中文',  //Chinese (Simplified)
         'en'    => 'English',  //英文
     ],
-    'framework_name' => '芽丝内容管理框架',
+    'framework_name' => '石头内容管理框架',
     'version_name'   => '基础开发版',
     'alias'          => 'YASCMF',
-    'full_name'      => '芽丝内容管理框架 - 基础开发版',
-    'author'         => '豆芽丝',
+    'full_name'      => '石头内容管理框架 - 基础开发版',
+    'author'         => '豆石头',
     'author_url'     => 'http://douyasi.com',
-    'description'    => '芽丝内容管理框架，基于 `Laravel 5` 构建，可快速二次开发的框架！',
+    'description'    => '石头内容管理框架，基于 `Laravel 5` 构建，可快速二次开发的框架！',
     'github_url'     => 'https://github.com/yascmf/base',
     'top_nav' => [
         'intro'   => '简介',
@@ -27,7 +27,7 @@ return [
         'contact' => '联系',
     ],
     'intro' => [
-        'text'      => '芽丝内容管理框架（YASCMF），基于 Laravel 5 构建，是套简约、易用、面向开发者且可快速二开的内容管理框架！',
+        'text'      => '石头内容管理框架（YASCMF），基于 Laravel 5 构建，是套简约、易用、面向开发者且可快速二开的内容管理框架！',
         'preview'   => '在线演示',
         'source'    => '基础版源码',
         'donation'  => '打赏捐助',
@@ -36,7 +36,7 @@ return [
     'feature' => [
         'thanks' => [
             'heading'   => '特别致谢：<br>Laravel',
-            'paragraph' => '芽丝内容管理框架基于 <span>Laravel 5</span> 构建。<a href="http://laravel.com">Laravel</a> 让我们书写优雅的代码，是为 Web 艺术家创造的 PHP 框架。',
+            'paragraph' => '石头内容管理框架基于 <span>Laravel 5</span> 构建。<a href="http://laravel.com">Laravel</a> 让我们书写优雅的代码，是为 Web 艺术家创造的 PHP 框架。',
         ],
         'advantages' => [
             'heading'   => '多站点、多语言、多认证<br>基础版 <span>MIT</span> 开源授权',
@@ -67,7 +67,7 @@ return [
         'source'   => '源码',
         'qq_group' => 'QQ群：260655062',
     ],
-    'yas'            => 'YʌS 芽丝网络',
+    'yas'            => 'YʌS 石头网络',
     'yas_url'        => 'http://yas.so',
     'copyright_text' => 'Copyright © <a href=":yas_url"> :yas </a> 2014 - 2016 . 版权所有 , 本页面模版来自 <a href="http://startbootstrap.com/template-overviews/landing-page/">Start Bootstrap</a> , 由 <a href="http://raoyc.com/">raoyc</a> 修改适配 .',
 

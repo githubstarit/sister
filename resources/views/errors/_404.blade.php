@@ -27,7 +27,7 @@
                     <!-- Content Header (Page header) -->
                     <section class="content-header">
                         <h1>
-                          芽丝内容管理框架
+                          石头内容管理框架
                           <small>YASCMF</small>
                         </h1>
                     </section>
